@@ -2,3 +2,4 @@ django==1.11.17
 gunicorn==19.7.1
 djangorestframework==3.6.2
 django-heroku
+selenium~=3.141.0
