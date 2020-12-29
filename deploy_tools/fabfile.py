@@ -1,5 +1,6 @@
 from fabric.api import cd, env, run
 from fabric.contrib.files import exists, append
+from fabric.operations import local
 
 REPO_URL = 'https://github.com/mbateman/book-example.git'
 
